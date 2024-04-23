@@ -1,0 +1,301 @@
+periode_data,tahun,bulan,kanal_pengaduan,status,jumlah
+202302,2023,02,Aduan Kecamatan,Selesai,1
+202302,2023,02,Aduan Kelurahan,Disposisi,1
+202301,2023,01,Aduan Gubernur,Selesai,54
+202301,2023,01,Aduan Kecamatan,Selesai,12
+202301,2023,01,Aduan Kelurahan,Disposisi,3
+202301,2023,01,Aduan Kelurahan,Selesai,58
+202301,2023,01,Aduan Walikota,Selesai,17
+202301,2023,01,Aspirasi Publik Media Massa,Selesai,115
+202301,2023,01,Email,Diproses,1
+202301,2023,01,Email,Selesai,339
+202301,2023,01,Facebook,Selesai,44
+202301,2023,01,JAKI,Diproses,18
+202301,2023,01,JAKI,Disposisi,24
+202301,2023,01,JAKI,Selesai,12447
+202301,2023,01,Pendopo Balaikota,Disposisi,2
+202301,2023,01,Pendopo Balaikota,Selesai,180
+202301,2023,01,SMS Center,Diproses,1
+202301,2023,01,SMS Center,Selesai,109
+202301,2023,01,SP4N Lapor,Selesai,60
+202301,2023,01,Twitter,Selesai,452
+202302,2023,02,Aduan Inspektorat,Selesai,4
+202302,2023,02,Aduan Kelurahan,Selesai,36
+202302,2023,02,Aduan Walikota,Disposisi,1
+202302,2023,02,Aduan Walikota,Selesai,11
+202302,2023,02,Aspirasi Publik Media Massa,Disposisi,1
+202302,2023,02,Aspirasi Publik Media Massa,Selesai,85
+202302,2023,02,Email,Diproses,1
+202302,2023,02,Email,Selesai,342
+202302,2023,02,Facebook,Selesai,43
+202302,2023,02,Instagram Gubernur,Selesai,1
+202302,2023,02,JAKI,Diproses,17
+202302,2023,02,JAKI,Disposisi,46
+202302,2023,02,JAKI,Selesai,11336
+202302,2023,02,Pendopo Balaikota,Diproses,1
+202302,2023,02,Pendopo Balaikota,Disposisi,1
+202302,2023,02,Pendopo Balaikota,Selesai,155
+202302,2023,02,SMS Center,Selesai,143
+202302,2023,02,SP4N Lapor,Selesai,60
+202302,2023,02,Twitter,Disposisi,2
+202302,2023,02,Twitter,Selesai,576
+202305,2023,05,Aduan Kecamatan,Selesai,2
+202305,2023,05,Aduan Kelurahan,Disposisi,2
+202305,2023,05,Aduan Kelurahan,Selesai,13
+202305,2023,05,Aduan Walikota,Selesai,6
+202305,2023,05,Aspirasi Publik Media Massa,Selesai,71
+202305,2023,05,Email,Diproses,1
+202305,2023,05,Email,Disposisi,1
+202305,2023,05,Email,Selesai,333
+202305,2023,05,Facebook,Selesai,40
+202305,2023,05,Instagram Gubernur,Selesai,1
+202305,2023,05,JAKI,Diproses,35
+202305,2023,05,JAKI,Disposisi,54
+202305,2023,05,JAKI,Selesai,11547
+202307,2023,07,Aduan Inspektorat,Selesai,2
+202307,2023,07,Aduan Kecamatan,Selesai,1
+202307,2023,07,Aduan Kelurahan,Disposisi,3
+202307,2023,07,Aduan Kelurahan,Selesai,21
+202307,2023,07,Aduan Walikota,Selesai,5
+202307,2023,07,Aspirasi Publik Media Massa,Disposisi,1
+202307,2023,07,Aspirasi Publik Media Massa,Selesai,21
+202307,2023,07,Email,Disposisi,5
+202307,2023,07,Email,Selesai,280
+202307,2023,07,Facebook,Selesai,34
+202307,2023,07,JAKI,Diproses,19
+202307,2023,07,JAKI,Disposisi,48
+202307,2023,07,JAKI,Selesai,13485
+202307,2023,07,Pendopo Balaikota,Diproses,1
+202307,2023,07,Pendopo Balaikota,Selesai,122
+202307,2023,07,SMS Center,Selesai,194
+202307,2023,07,SP4N Lapor,Selesai,72
+202307,2023,07,Twitter,Diproses,1
+202306,2023,06,Aduan Kecamatan,Selesai,4
+202306,2023,06,Aduan Kelurahan,Selesai,14
+202306,2023,06,Aduan Walikota,Selesai,2
+202306,2023,06,Aspirasi Publik Media Massa,Selesai,50
+202306,2023,06,Email,Diproses,1
+202306,2023,06,Email,Selesai,324
+202306,2023,06,Facebook,Diproses,1
+202306,2023,06,Facebook,Selesai,28
+202306,2023,06,Instagram Gubernur,Selesai,5
+202306,2023,06,JAKI,Diproses,14
+202306,2023,06,JAKI,Disposisi,28
+202306,2023,06,JAKI,Selesai,11299
+202306,2023,06,Pendopo Balaikota,Selesai,97
+202306,2023,06,SMS Center,Selesai,178
+202306,2023,06,SP4N Lapor,Selesai,56
+202306,2023,06,Twitter,Disposisi,1
+202306,2023,06,Twitter,Selesai,545
+202307,2023,07,Twitter,Selesai,411
+202307,2023,07,Twitter Gubernur,Selesai,1
+202308,2023,08,Aduan Inspektorat,Selesai,2
+202308,2023,08,Aduan Kecamatan,Selesai,1
+202308,2023,08,Aduan Kelurahan,Selesai,19
+202308,2023,08,Aduan Walikota,Selesai,6
+202308,2023,08,Aspirasi Publik Media Massa,Disposisi,1
+202308,2023,08,Aspirasi Publik Media Massa,Selesai,41
+202308,2023,08,Email,Diproses,2
+202308,2023,08,Email,Disposisi,2
+202308,2023,08,Email,Selesai,281
+202308,2023,08,Facebook,Selesai,28
+202308,2023,08,JAKI,Diproses,46
+202308,2023,08,JAKI,Disposisi,40
+202308,2023,08,JAKI,Selesai,14084
+202308,2023,08,Pendopo Balaikota,Selesai,92
+202309,2023,09,Aduan Inspektorat,Selesai,1
+202309,2023,09,Aduan Kecamatan,Selesai,1
+202309,2023,09,Aduan Kelurahan,Selesai,14
+202309,2023,09,Aduan Walikota,Selesai,3
+202309,2023,09,Aspirasi Publik Media Massa,Selesai,58
+202309,2023,09,Email,Diproses,1
+202309,2023,09,Email,Disposisi,3
+202309,2023,09,Email,Selesai,298
+202309,2023,09,Facebook,Selesai,22
+202309,2023,09,Instagram Gubernur,Selesai,1
+202309,2023,09,JAKI,Diproses,27
+202309,2023,09,JAKI,Disposisi,39
+202309,2023,09,JAKI,Selesai,12590
+202309,2023,09,Pendopo Balaikota,Selesai,67
+202309,2023,09,SMS Center,Disposisi,1
+202309,2023,09,SMS Center,Selesai,152
+202309,2023,09,SP4N Lapor,Selesai,78
+202309,2023,09,Twitter,Selesai,240
+202311,2023,11,Email,Diproses,1
+202311,2023,11,Email,Disposisi,1
+202311,2023,11,Email,Selesai,217
+202311,2023,11,Facebook,Disposisi,1
+202311,2023,11,Facebook,Selesai,23
+202311,2023,11,JAKI,Diproses,10
+202311,2023,11,JAKI,Disposisi,140
+202311,2023,11,JAKI,Selesai,15334
+202311,2023,11,Pendopo Balaikota,Disposisi,1
+202311,2023,11,Pendopo Balaikota,Selesai,62
+202311,2023,11,SMS Center,Diproses,1
+202311,2023,11,SMS Center,Disposisi,1
+202311,2023,11,SMS Center,Selesai,181
+202311,2023,11,SP4N Lapor,Selesai,74
+202311,2023,11,Twitter,Disposisi,1
+202311,2023,11,Twitter,Selesai,435
+202312,2023,12,Aduan Kelurahan,Disposisi,2
+202312,2023,12,Aduan Kelurahan,Selesai,8
+202312,2023,12,Aduan Walikota,Selesai,5
+202312,2023,12,Aspirasi Publik Media Massa,Selesai,19
+202312,2023,12,Email,Disposisi,2
+202312,2023,12,Email,Selesai,225
+202312,2023,12,Facebook,Selesai,23
+202312,2023,12,JAKI,Diproses,16
+202312,2023,12,JAKI,Disposisi,139
+202312,2023,12,JAKI,Selesai,13761
+202312,2023,12,Pendopo Balaikota,Selesai,43
+202312,2023,12,SMS Center,Disposisi,1
+202312,2023,12,SMS Center,Selesai,185
+202312,2023,12,SP4N Lapor,Diproses,2
+202312,2023,12,SP4N Lapor,Disposisi,1
+202312,2023,12,SP4N Lapor,Selesai,58
+202312,2023,12,Twitter,Disposisi,3
+202312,2023,12,Twitter,Selesai,359
+202301,2023,01,Aduan Gubernur,Selesai,54
+202301,2023,01,Aduan Kecamatan,Selesai,12
+202301,2023,01,Aduan Kelurahan,Selesai,62
+202301,2023,01,Aduan Walikota,Selesai,17
+202301,2023,01,Aspirasi Publik Media Massa,Selesai,119
+202301,2023,01,Email,Selesai,344
+202301,2023,01,Facebook,Selesai,44
+202301,2023,01,JAKI,Selesai,12715
+202301,2023,01,Pendopo Balaikota,Selesai,184
+202301,2023,01,SMS Center,Selesai,111
+202301,2023,01,SP4N Lapor,Selesai,60
+202301,2023,01,Twitter,Selesai,466
+202401,2024,01,Aduan Inspektorat,Selesai,1
+202401,2024,01,Aduan Kecamatan,Selesai,1
+202401,2024,01,Aduan Kelurahan,Disposisi,5
+202401,2024,01,Aduan Kelurahan,Selesai,18
+202401,2024,01,Aduan Walikota,Selesai,7
+202401,2024,01,Aspirasi Publik Media Massa,Selesai,33
+202401,2024,01,Email,Diproses,2
+202401,2024,01,Email,Disposisi,3
+202401,2024,01,Email,Selesai,203
+202401,2024,01,Facebook,Selesai,34
+202401,2024,01,JAKI,Diproses,58
+202401,2024,01,JAKI,Disposisi,292
+202401,2024,01,JAKI,Selesai,15159
+202401,2024,01,Pendopo Balaikota,Selesai,31
+202401,2024,01,SMS Center,Disposisi,1
+202401,2024,01,SMS Center,Selesai,204
+202401,2024,01,SP4N Lapor,Selesai,85
+202401,2024,01,Twitter,Disposisi,4
+202401,2024,01,Twitter,Selesai,621
+202304,2023,04,Aduan Inspektorat,Selesai,2
+202304,2023,04,Aduan Kecamatan,Selesai,1
+202304,2023,04,Aduan Kelurahan,Selesai,9
+202304,2023,04,Aduan Walikota,Selesai,4
+202304,2023,04,Aspirasi Publik Media Massa,Disposisi,1
+202304,2023,04,Aspirasi Publik Media Massa,Selesai,39
+202304,2023,04,Email,Selesai,223
+202304,2023,04,Facebook,Selesai,32
+202304,2023,04,Facebook Gubernur,Selesai,1
+202304,2023,04,JAKI,Diproses,10
+202304,2023,04,JAKI,Disposisi,31
+202304,2023,04,JAKI,Selesai,9287
+202304,2023,04,Pendopo Balaikota,Diproses,1
+202304,2023,04,Pendopo Balaikota,Disposisi,1
+202304,2023,04,Pendopo Balaikota,Selesai,87
+202304,2023,04,SMS Center,Diproses,1
+202304,2023,04,SMS Center,Disposisi,1
+202304,2023,04,SMS Center,Selesai,158
+202304,2023,04,SP4N Lapor,Selesai,49
+202304,2023,04,Twitter,Selesai,387
+202401,2024,01,Aduan Inspektorat,Selesai,1
+202401,2024,01,Aduan Kecamatan,Selesai,1
+202401,2024,01,Aduan Kelurahan,Disposisi,5
+202401,2024,01,Aduan Kelurahan,Selesai,18
+202401,2024,01,Aduan Walikota,Selesai,7
+202401,2024,01,Aspirasi Publik Media Massa,Selesai,34
+202401,2024,01,Email,Diproses,2
+202401,2024,01,Email,Disposisi,3
+202401,2024,01,Email,Selesai,203
+202401,2024,01,Facebook,Selesai,34
+202401,2024,01,Instagram Gubernur,Selesai,1
+202401,2024,01,JAKI,Diproses,48
+202401,2024,01,JAKI,Disposisi,277
+202401,2024,01,JAKI,Selesai,15200
+202401,2024,01,Pendopo Balaikota,Selesai,31
+202401,2024,01,SMS Center,Disposisi,1
+202303,2023,03,Aduan Inspektorat,Selesai,1
+202303,2023,03,Aduan Kecamatan,Selesai,2
+202303,2023,03,Aduan Kelurahan,Disposisi,4
+202303,2023,03,Aduan Kelurahan,Selesai,25
+202303,2023,03,Aduan Walikota,Selesai,10
+202303,2023,03,Aspirasi Publik Media Massa,Diproses,1
+202303,2023,03,Aspirasi Publik Media Massa,Selesai,83
+202303,2023,03,Email,Selesai,426
+202303,2023,03,Facebook,Disposisi,1
+202303,2023,03,Facebook,Selesai,55
+202303,2023,03,Instagram Gubernur,Selesai,5
+202303,2023,03,JAKI,Diproses,24
+202303,2023,03,JAKI,Disposisi,72
+202303,2023,03,JAKI,Selesai,13064
+202303,2023,03,Pendopo Balaikota,Disposisi,1
+202303,2023,03,Pendopo Balaikota,Selesai,126
+202303,2023,03,SMS Center,Disposisi,2
+202303,2023,03,SMS Center,Selesai,201
+202303,2023,03,SP4N Lapor,Disposisi,1
+202303,2023,03,SP4N Lapor,Selesai,77
+202303,2023,03,Twitter,Diproses,1
+202303,2023,03,Twitter,Selesai,678
+202305,2023,05,Pendopo Balaikota,Selesai,113
+202305,2023,05,SMS Center,Disposisi,1
+202305,2023,05,SMS Center,Selesai,227
+202305,2023,05,SP4N Lapor,Diproses,1
+202305,2023,05,SP4N Lapor,Selesai,62
+202305,2023,05,Twitter,Diproses,1
+202305,2023,05,Twitter,Disposisi,1
+202305,2023,05,Twitter,Selesai,474
+202308,2023,08,SMS Center,Disposisi,1
+202308,2023,08,SMS Center,Selesai,235
+202308,2023,08,SP4N Lapor,Diproses,1
+202308,2023,08,SP4N Lapor,Selesai,86
+202308,2023,08,Twitter,Selesai,247
+202310,2023,10,Aduan Inspektorat,Selesai,4
+202310,2023,10,Aduan Kelurahan,Selesai,16
+202310,2023,10,Aduan Walikota,Disposisi,1
+202310,2023,10,Aduan Walikota,Selesai,9
+202310,2023,10,Aspirasi Publik Media Massa,Selesai,40
+202310,2023,10,Email,Selesai,219
+202310,2023,10,Facebook,Selesai,21
+202310,2023,10,JAKI,Diproses,33
+202310,2023,10,JAKI,Disposisi,87
+202310,2023,10,JAKI,Selesai,14080
+202310,2023,10,Pendopo Balaikota,Selesai,75
+202310,2023,10,SMS Center,Disposisi,1
+202310,2023,10,SMS Center,Selesai,193
+202310,2023,10,SP4N Lapor,Disposisi,1
+202310,2023,10,SP4N Lapor,Selesai,82
+202310,2023,10,Twitter,Selesai,305
+202311,2023,11,Aduan Inspektorat,Selesai,1
+202311,2023,11,Aduan Kelurahan,Disposisi,2
+202311,2023,11,Aduan Kelurahan,Selesai,11
+202311,2023,11,Aduan Walikota,Selesai,5
+202311,2023,11,Aspirasi Publik Media Massa,Selesai,18
+202401,2024,01,SMS Center,Selesai,204
+202401,2024,01,SP4N Lapor,Selesai,85
+202401,2024,01,Twitter,Disposisi,4
+202401,2024,01,Twitter,Selesai,621
+202402,2024,02,Aduan Kecamatan,Selesai,2
+202402,2024,02,Aduan Kelurahan,Selesai,12
+202402,2024,02,Aduan Surat Pembaca,Selesai,2
+202402,2024,02,Aduan Walikota,Selesai,2
+202402,2024,02,Aspirasi Publik Media Massa,Selesai,11
+202402,2024,02,Email,Selesai,184
+202402,2024,02,Facebook,Selesai,27
+202402,2024,02,Instagram Gubernur,Selesai,3
+202402,2024,02,JAKI,Diproses,54
+202402,2024,02,JAKI,Disposisi,195
+202402,2024,02,JAKI,Selesai,13116
+202402,2024,02,Pendopo Balaikota,Selesai,34
+202402,2024,02,SMS Center,Disposisi,2
+202402,2024,02,SMS Center,Selesai,199
+202402,2024,02,SP4N Lapor,Selesai,65
+202402,2024,02,Twitter,Disposisi,1
+202402,2024,02,Twitter,Selesai,558
