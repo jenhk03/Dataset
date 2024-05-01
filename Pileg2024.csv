@@ -1,19 +1,19 @@
-No Urut,Partai,Ketua,Suara,Kursi
-1,PKB,Muhaimin Iskandar,10.62,11.72
-2,Gerindra,Prabowo Subianto,13.22,14.83
-3,PDIP,Megawati Soekarnoputri,16.72,18.96
-4,Golkar,Airlangga Hartarto,15.29,17.59
-5,Nasdem,Surya Paloh,9.66,11.9
-6,Buruh,Said Iqbal,0.64,0
-7,Gelora,Anis Matta,0.84,0
-8,PKS,Ahmad Syaikhu,8.42,9.14
-9,PKN,Anas Urbaningrum,0.22,0
-10,Hanura,Oesman Sapta Odang,0.72,0
-11,Garuda,Ahmad Ridha Sabana,0.27,0
-12,PAN,Zulkifli Hasan,7.24,8.27
-13,PBB,Yusril Ihza Mahendra,0.32,0
-14,Demokrat,Agus Harimurti Yudhoyono,7.43,7.59
-15,PSI,Kaesang Pangarep,2.81,0
-16,Perindo,Hary Tanoesoedibjo,1.29,0
-17,PPP,Muhammad Mardiono,3.87,0
-24,Ummat,Ridho Rahmadi,0.42,0
+No Urut,Partai,Ketua,Suara,Kursi,Koalisi
+1,PKB,Muhaimin Iskandar,10.62,11.72,Y
+2,Gerindra,Prabowo Subianto,13.22,14.83,Y
+3,PDIP,Megawati Soekarnoputri,16.72,18.96,N
+4,Golkar,Airlangga Hartarto,15.29,17.59,Y
+5,Nasdem,Surya Paloh,9.66,11.9,Y
+6,Buruh,Said Iqbal,0.64,0,Y
+7,Gelora,Anis Matta,0.84,0,Y
+8,PKS,Ahmad Syaikhu,8.42,9.14,N
+9,PKN,Anas Urbaningrum,0.22,0,
+10,Hanura,Oesman Sapta Odang,0.72,0,N
+11,Garuda,Ahmad Ridha Sabana,0.27,0,Y
+12,PAN,Zulkifli Hasan,7.24,8.27,Y
+13,PBB,Yusril Ihza Mahendra,0.32,0,Y
+14,Demokrat,Agus Harimurti Yudhoyono,7.43,7.59,Y
+15,PSI,Kaesang Pangarep,2.81,0,Y
+16,Perindo,Hary Tanoesoedibjo,1.29,0,N
+17,PPP,Muhammad Mardiono,3.87,0,N
+24,Ummat,Ridho Rahmadi,0.42,0,N
