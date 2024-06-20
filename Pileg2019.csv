@@ -1,17 +1,17 @@
-No Urut,Partai,Ketua,Suara,Kursi,Paslon,Koalisi
-1,PKB,Muhaimin Iskandar,9.69,10.09,Anies Baswedan,Y
-2,Gerindra,Prabowo Subianto,12.57,13.57,Prabowo Subianto,Y
-3,PDIP,Megawati Soekarnoputri,19.33,22.26,Ganjar Pranowo,Y
-4,Golkar,Airlangga Hartarto,12.31,14.78,Prabowo Subianto,Y
-5,Nasdem,Surya Paloh,9.05,10.26,Anies Baswedan,Y
-6,Garuda,Ahmad Ridha Sabana,0.5,0,Prabowo Subianto,Y
-7,Berkarya,Hutomo Mandala Putra,2.09,0,Prabowo Subianto,Y
-8,PKS,Sohibul Iman,8.21,8.7,Anies Baswedan,N
-9,Perindo,Hary Tanoesoedibjo,2.67,0,Ganjar Pranowo,Y
-10,PPP,Suharso Monoarfa,4.52,3.3,Ganjar Pranowo,Y
-11,PSI,Grace Natalie,1.89,0,Prabowo Subianto,Y
-12,PAN,Zulkifli Hasan,6.84,7.65,Prabowo Subianto,Y
-13,Hanura,Oesman Sapta Odang,1.54,0,Ganjar Pranowo,Y
-14,Demokrat,Susilo Bambang Yudhoyono,7.77,9.39,Prabowo Subianto,Y
-19,PBB,Yusril Ihza Mahendra,0.79,0,Prabowo Subianto,Y
-20,PKPI,Sutiyoso,0.22,0,Anies Baswedan,Y
+No Urut;Partai;Ketua;Suara;Kursi;Paslon;Koalisi
+1;PKB;Muhaimin Iskandar;9.69;10.09;Anies Baswedan;Y
+2;Gerindra;Prabowo Subianto;12.57;13.57;Prabowo Subianto;Y
+3;PDIP;Megawati Soekarnoputri;19.33;22.26;Ganjar Pranowo;Y
+4;Golkar;Airlangga Hartarto;12.31;14.78;Prabowo Subianto;Y
+5;Nasdem;Surya Paloh;9.05;10.26;Anies Baswedan;Y
+6;Garuda;Ahmad Ridha Sabana;0.5;0;Prabowo Subianto;Y
+7;Berkarya;Hutomo Mandala Putra;2.09;0;;Y
+8;PKS;Sohibul Iman;8.21;8.7;Anies Baswedan;N
+9;Perindo;Hary Tanoesoedibjo;2.67;0;Ganjar Pranowo;Y
+10;PPP;Suharso Monoarfa;4.52;3.3;Ganjar Pranowo;Y
+11;PSI;Grace Natalie;1.89;0;Prabowo Subianto;Y
+12;PAN;Zulkifli Hasan;6.84;7.65;Prabowo Subianto;Y
+13;Hanura;Oesman Sapta Odang;1.54;0;Ganjar Pranowo;Y
+14;Demokrat;Susilo Bambang Yudhoyono;7.77;9.39;Prabowo Subianto;Y
+19;PBB;Yusril Ihza Mahendra;0.79;0;Prabowo Subianto;Y
+20;PKPI;Sutiyoso;0.22;0;;Y
